@@ -1,8 +1,6 @@
 # img.bi-setup-script
 Debian img.bi setup script
 
-13 May 2015
-
 #Dotdeb Repo setup
 
 nano /etc/apt/sources.list
